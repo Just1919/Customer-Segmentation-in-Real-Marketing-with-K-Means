@@ -60,7 +60,7 @@ Customer segmentation with K-Means is not just about numbers—it’s about turn
 ## 🔗 Learn More
 
 For the full step-by-step explanation, check out my Medium article:  
-[Customer Segmentation in Real Marketing: How K-Means Can Boost Your Campaigns](https://medium.com/@yawodjakas/customer-segmentation-in-real-marketing-how-k-means-can-boost-your-campaigns)
+[Customer Segmentation in Real Marketing: How K-Means Can Boost Your Campaigns](https://medium.com/@justindjakas/customer-segmentation-in-real-marketing-how-k-means-can-boost-your-campaigns-826e1e8d72aa)
 
 ---
 
